@@ -1,5 +1,4 @@
 package com.aoc.problems
-class DayOne
 
 private const val SOURCE = "/Day1.txt"
 
